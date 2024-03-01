@@ -22,14 +22,13 @@
 #### Languages: Python
 #### Simple HTTP Proxy implemented in Python. Allows caching and filtering of client requests. Acts as a middle man between client and server.
 
-## Demo
+## Code
 [HTTPProxy.py](https://github.com/ethanbowles03/WebsitePortfolio/blob/main/HTTPproxy.py)
 
 # Lawnmowing Website
 ## About This Project
 #### Languages: HTML, CSS, JavaScript
 #### Website for cousin's lawn mowing buisness. Serves a digital store front to showcase lawnmowing and landscaping services offered. The website acts as a portfolio breaking down his services, while offering personal contact information for the client use.
-
-## Demo
-[Website](https://snidermowing.com)
+#### [Link to Official Repo](https://github.com/ethanbowles03/LawnMowingWebsite/)
+#### [Website](https://snidermowing.com)
 
