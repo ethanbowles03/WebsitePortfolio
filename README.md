@@ -41,4 +41,11 @@
 ## Demo
 [Video Demo](https://youtu.be/2jiGsc7BIao)
 
+# Wordle Clone
+## About This Project
+#### Languages: Java
+#### Simple Wordle clone in Java. Read valid words for an external. Mechanically, functions as a normal wordle game.
+
+## Code
+[Wordle.java](https://youtu.be/2jiGsc7BIao)
 
