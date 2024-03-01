@@ -3,6 +3,7 @@
 
 # DuoAlgo
 ## About This Project
+#### Languages: C++
 #### Leveraged QT Creator, C++, and Git in a team of 4, to develop a learning application to assist in the teaching of basic sorting algorithms. We utilize a learning, practice, and quiz section to solidify user understanding.
 
 ## Demo
@@ -10,8 +11,17 @@
 
 # Andriod Drawing Application
 ## About This Project
+#### Languages: Kotlin, XML, SQL
 #### Project developed using and Andriod and Kotlin. Allows users to make new drawing and edit past ones. App uses RoomDB to presist drawings while app is not running. Furthermore, the app implements common standards such as Jetpack Navigation and a Modern UI framework.
 
 ## Demo
 [Video Demo]()
+
+# HTTP Proxy
+## About This Project
+#### Languages: Python
+#### Simple HTTP Proxy implemented in Python. Allows caching and filtering of client requests. Acts as a middle man between client and server.
+
+## Demo
+[Code]()
 
