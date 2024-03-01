@@ -15,7 +15,7 @@
 #### Project developed using and Andriod and Kotlin. Allows users to make new drawing and edit past ones. App uses RoomDB to presist drawings while app is not running. Furthermore, the app implements common standards such as Jetpack Navigation and a Modern UI framework.
 
 ## Demo
-[Video Demo]()
+[Video Demo](https://youtu.be/2Yhsurvms_I)
 
 # HTTP Proxy
 ## About This Project
