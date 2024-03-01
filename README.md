@@ -47,5 +47,5 @@
 #### Simple Wordle clone in Java. Read valid words for an external. Mechanically, functions as a normal wordle game.
 
 ## Code
-[Wordle.java](https://youtu.be/2jiGsc7BIao)
+[Wordle](https://github.com/ethanbowles03/WebsitePortfolio/blob/main/wordle.zip)
 
