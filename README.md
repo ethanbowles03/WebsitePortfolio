@@ -32,3 +32,13 @@
 #### [Link to Official Repo](https://github.com/ethanbowles03/LawnMowingWebsite/)
 #### [Website](https://snidermowing.com)
 
+# Learning Menu Application
+## About This Project
+#### Languages: C#, XML
+#### Learning Menu/Course Selector application intended for student and teacher use in school. Admin upload courses and clubs, allowing students to select from what is available.
+#### [Link to more info](https://github.com/ethanbowles03/HighSchoolProgrammingPortfolio/tree/main/LearningMenu)
+
+## Demo
+[Video Demo](https://youtu.be/2jiGsc7BIao)
+
+
